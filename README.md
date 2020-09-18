@@ -23,14 +23,16 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="http://g.recordit.co/4rbSzukSj1.gif" width=250><br>
+##### Logging In
+<img src="https://recordit.co/iqAiGao3Rf" width=250><br>
+##### Staying Logged In
+<img src="http://g.recordit.co/U8o643HP5b.gif" width=250><br>
+##### Logging Out
+<img src="http://g.recordit.co/3k5MS9Ct0i.gif" width=250><br>
 
+##### Refreshing and Infinite Scroll
+<img src="http://g.recordit.co/bfhCGCRW7s.gif" width=250><br>
 
-<img src='http://g.recordit.co/4rbSzukSj1.gif' title='Logging in!' width=250 alt='Login' />
-
-
-<img src='http://recordit.co/iqAiGao3Rf' title='Still logged in!' width='' alt='Video Walkthrough' />
-<img src='http://g.recordit.co/4rbSzukSj1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+## Notes
+* I like Dan a lot! I like his way of teaching.
+* Going to add comments, so I remember these "formula" of API calling. Seems legit.
