@@ -24,6 +24,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/JkAkcImFmx.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+<img src="http://g.recordit.co/JkAkcImFmx.gif" width=250><br>
+
 # Project 3 - *Twitter*
 
 **Twitter** is a _basic_ twitter app to read your tweets.
